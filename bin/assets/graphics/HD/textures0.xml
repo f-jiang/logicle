@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e8b63811099565041516dc33cb096eb0:1827fd3b71d3d4ad62615fb7ce103f94:dfbd81ac543341bd22aae9d120e88950$ -->
+<TextureAtlas imagePath="textures0.png">
+    <SubTexture name="about" x="4" y="4" width="951" height="1368"/>
+    <SubTexture name="footerBg" x="4" y="1824" width="1012" height="220"/>
+    <SubTexture name="headerBg" x="1022" y="1824" width="1016" height="197"/>
+    <SubTexture name="levelCategoryBtn_down" x="4" y="1378" width="1013" height="440"/>
+    <SubTexture name="levelCategoryBtn_up" x="1023" y="1296" width="1013" height="440"/>
+    <SubTexture name="noBtn_down" x="1800" y="1070" width="185" height="184" frameX="0" frameY="0" frameWidth="257" frameHeight="184"/>
+    <SubTexture name="panel" x="961" y="4" width="1060" height="1060"/>
+    <SubTexture name="playBtn_down" x="961" y="1070" width="833" height="220"/>
+    <SubTexture name="selectedPage" x="961" y="1296" width="30" height="30"/>
+    <SubTexture name="thumb" x="1991" y="1070" width="12" height="150"/>
+    <SubTexture name="unselectedPage" x="961" y="1332" width="30" height="30"/>
+</TextureAtlas>

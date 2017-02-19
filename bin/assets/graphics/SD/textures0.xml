@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e8b63811099565041516dc33cb096eb0:1827fd3b71d3d4ad62615fb7ce103f94:dfbd81ac543341bd22aae9d120e88950$ -->
+<TextureAtlas imagePath="textures0.png">
+    <SubTexture name="about" x="4" y="4" width="634" height="912"/>
+    <SubTexture name="backBtn_down" x="1108" y="1832" width="123" height="123"/>
+    <SubTexture name="backBtn_up" x="1237" y="1832" width="123" height="123"/>
+    <SubTexture name="circle" x="4" y="1514" width="407" height="407"/>
+    <SubTexture name="completeLevelBtn_down" x="1745" y="979" width="125" height="157"/>
+    <SubTexture name="completeLevelBtn_up" x="1745" y="1142" width="125" height="157"/>
+    <SubTexture name="footerBg" x="644" y="717" width="675" height="147"/>
+    <SubTexture name="headerBg" x="1357" y="602" width="677" height="131"/>
+    <SubTexture name="incompleteLevelBtn_down" x="1650" y="1659" width="125" height="157"/>
+    <SubTexture name="incompleteLevelBtn_up" x="1876" y="979" width="125" height="157"/>
+    <SubTexture name="levelCategoryBtn_down" x="1357" y="4" width="675" height="293"/>
+    <SubTexture name="levelCategoryBtn_up" x="1357" y="303" width="675" height="293"/>
+    <SubTexture name="listBtn_down" x="1325" y="739" width="666" height="114"/>
+    <SubTexture name="listBtn_up" x="644" y="870" width="666" height="114"/>
+    <SubTexture name="listToggleOffBtn_down" x="1325" y="859" width="666" height="114"/>
+    <SubTexture name="listToggleOffBtn_up" x="591" y="1396" width="666" height="114"/>
+    <SubTexture name="listToggleOnBtn_down" x="417" y="1516" width="666" height="114"/>
+    <SubTexture name="listToggleOnBtn_up" x="417" y="1636" width="666" height="114"/>
+    <SubTexture name="lockedLevelBtn_down" x="1876" y="1142" width="125" height="157"/>
+    <SubTexture name="lockedLevelBtn_up" x="1824" y="1506" width="125" height="157"/>
+    <SubTexture name="logo_down" x="4" y="922" width="581" height="290"/>
+    <SubTexture name="logo_up" x="4" y="1218" width="581" height="290"/>
+    <SubTexture name="nextLevelBtn_down" x="997" y="990" width="368" height="368"/>
+    <SubTexture name="nextLevelBtn_up" x="1371" y="979" width="368" height="368"/>
+    <SubTexture name="noBtn_down" x="1089" y="1516" width="124" height="123" frameX="0" frameY="0" frameWidth="171" frameHeight="123"/>
+    <SubTexture name="noBtn_up" x="978" y="1832" width="124" height="123" frameX="0" frameY="0" frameWidth="171" frameHeight="123"/>
+    <SubTexture name="padlock" x="978" y="1756" width="47" height="67"/>
+    <SubTexture name="panel" x="644" y="4" width="707" height="707"/>
+    <SubTexture name="perfectLevelBtn_down" x="1781" y="1669" width="125" height="157"/>
+    <SubTexture name="perfectLevelBtn_up" x="1912" y="1669" width="125" height="157"/>
+    <SubTexture name="playBtn_down" x="417" y="1756" width="555" height="147"/>
+    <SubTexture name="playBtn_up" x="1371" y="1353" width="555" height="147"/>
+    <SubTexture name="resetBtn_down" x="1366" y="1832" width="123" height="123" frameX="0" frameY="0" frameWidth="126" frameHeight="123"/>
+    <SubTexture name="resetBtn_up" x="1495" y="1832" width="123" height="123" frameX="0" frameY="0" frameWidth="126" frameHeight="123"/>
+    <SubTexture name="selectedPage" x="591" y="922" width="20" height="20"/>
+    <SubTexture name="settingsBtn_down" x="1263" y="1506" width="555" height="147"/>
+    <SubTexture name="settingsBtn_up" x="1089" y="1659" width="555" height="147"/>
+    <SubTexture name="square" x="591" y="990" width="400" height="400"/>
+    <SubTexture name="thumb" x="1997" y="739" width="8" height="100"/>
+    <SubTexture name="unselectedPage" x="997" y="1364" width="20" height="20"/>
+    <SubTexture name="yesBtn_down" x="1624" y="1832" width="123" height="123"/>
+    <SubTexture name="yesBtn_up" x="1753" y="1832" width="123" height="123"/>
+</TextureAtlas>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e8b63811099565041516dc33cb096eb0:1827fd3b71d3d4ad62615fb7ce103f94:dfbd81ac543341bd22aae9d120e88950$ -->
+<TextureAtlas imagePath="textures1.png">
+    <SubTexture name="backBtn_down" x="1643" y="1213" width="184" height="184"/>
+    <SubTexture name="backBtn_up" x="1643" y="1403" width="184" height="184"/>
+    <SubTexture name="circle" x="881" y="181" width="610" height="610"/>
+    <SubTexture name="completeLevelBtn_down" x="1497" y="181" width="188" height="236"/>
+    <SubTexture name="completeLevelBtn_up" x="1449" y="1023" width="188" height="236"/>
+    <SubTexture name="incompleteLevelBtn_down" x="1497" y="423" width="188" height="236"/>
+    <SubTexture name="incompleteLevelBtn_up" x="1691" y="181" width="188" height="236"/>
+    <SubTexture name="listBtn_down" x="881" y="4" width="999" height="171"/>
+    <SubTexture name="lockedLevelBtn_down" x="1691" y="423" width="188" height="236"/>
+    <SubTexture name="lockedLevelBtn_up" x="1120" y="1475" width="188" height="236"/>
+    <SubTexture name="logo_down" x="4" y="4" width="871" height="435"/>
+    <SubTexture name="logo_up" x="4" y="445" width="871" height="435"/>
+    <SubTexture name="nextLevelBtn_down" x="4" y="1492" width="552" height="552"/>
+    <SubTexture name="nextLevelBtn_up" x="562" y="1492" width="552" height="552"/>
+    <SubTexture name="noBtn_up" x="1643" y="1023" width="185" height="184" frameX="0" frameY="0" frameWidth="257" frameHeight="184"/>
+    <SubTexture name="padlock" x="610" y="886" width="71" height="100"/>
+    <SubTexture name="perfectLevelBtn_down" x="1120" y="1717" width="188" height="236"/>
+    <SubTexture name="perfectLevelBtn_up" x="1449" y="1265" width="188" height="236"/>
+    <SubTexture name="playBtn_up" x="881" y="797" width="833" height="220"/>
+    <SubTexture name="resetBtn_down" x="1314" y="1507" width="184" height="184" frameX="0" frameY="0" frameWidth="189" frameHeight="184"/>
+    <SubTexture name="resetBtn_up" x="1314" y="1697" width="184" height="184" frameX="0" frameY="0" frameWidth="189" frameHeight="184"/>
+    <SubTexture name="settingsBtn_down" x="610" y="1023" width="833" height="220"/>
+    <SubTexture name="settingsBtn_up" x="610" y="1249" width="833" height="220"/>
+    <SubTexture name="square" x="4" y="886" width="600" height="600"/>
+    <SubTexture name="yesBtn_down" x="1504" y="1593" width="184" height="184"/>
+    <SubTexture name="yesBtn_up" x="1694" y="1593" width="184" height="184"/>
+</TextureAtlas>
