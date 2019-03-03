@@ -1,0 +1,9 @@
+bat/
+bin/levels/
+bin/Logicle.swf
+cert/
+dist/
+lib/
+Logicle.as3proj
+*.bat
+
